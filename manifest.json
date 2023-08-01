@@ -1,7 +1,7 @@
 {
   "vendor": "almahio",
   "name": "collapsible-layout",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Collapsible Layout",
   "description": "The Collapsible Layout creates a container that can be expanded or closed by pressing a button, limiting the content size for better fitting.",
   "builders": {
