@@ -1,0 +1,7 @@
+{
+  "admin/editor.collapsible-layout.title": "Collapsible Layout",
+  "admin/editor.collapsible-layout.initiallyOpen": "Initially Open",
+  "admin/editor.collapsible-layout.minHeight": "Min Height to render 'See more' button. In pixels eg. 100",
+  "admin/editor.collapsible-layout.showMoreButtonText": "Show More",
+  "admin/editor.collapsible-layout.showLessButtonText": "Show Less"
+}

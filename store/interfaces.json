@@ -1,0 +1,31 @@
+{
+  "collapsible-layout": {
+    "component": "CollapsibleLayout",
+    "composition": "children",
+    "allowed": "*",
+    "content": {
+      "properties": {
+        "initiallyOpen": {
+          "title": "admin/editor.collapsible-layout.initiallyOpen",
+          "type": "boolean",
+          "default": false
+        },
+        "minHeight": {
+          "title": "admin/editor.collapsible-layout.minHeight",
+          "type": "number",
+          "default": "100"
+        },
+        "showMoreText": {
+          "title": "admin/editor.collapsible-layout.showMoreText",
+          "type": "string",
+          "default": "Show more"
+        },
+        "showLessText": {
+          "title": "admin/editor.collapsible-layout.showLessText",
+          "type": "string",
+          "default": "Show less"
+        }
+      }
+    }
+  }
+}

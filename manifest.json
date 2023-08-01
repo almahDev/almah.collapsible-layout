@@ -1,0 +1,20 @@
+{
+  "vendor": "almahio",
+  "name": "collapsible-layout",
+  "version": "0.3.2",
+  "title": "Collapsible Layout",
+  "description": "The Collapsible Layout creates a container that can be expanded or closed by pressing a button, limiting the content size for better fitting.",
+  "builders": {
+    "store": "0.x",
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x",
+    "vtex.css-handles": "0.x"
+  },
+  "registries": ["smartcheckout"],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

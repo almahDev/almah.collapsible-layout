@@ -1,0 +1,7 @@
+{
+  "admin/editor.collapsible-layout.title": "Conteúdo Colapsável",
+  "admin/editor.collapsible-layout.initiallyOpen": "Começa Aberto",
+  "admin/editor.collapsible-layout.minHeight": "Mínimo de altura para exibição do botão 'Ver mais'. Em pixels. Ex: 100",
+  "admin/editor.collapsible-layout.showMoreButtonText": "Ver mais - Texto",
+  "admin/editor.collapsible-layout.showLessButtonText": "Ver menos - Texto"
+}
